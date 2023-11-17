@@ -90,7 +90,7 @@ console.log(depositCash("salman", 300));
 console.log(withdrawCash("salman", 100));
 console.log(addAccount("john", "current", 500));
 console.log(removeAccount("hud"));
-console.log(transferMoney("salman", "john", 200));
+console.log(transferMoney("salman", "hud", 200));
 console.log(viewAccount("salman"));
 ```
 Feel free to explore and test different scenarios using these functions.
