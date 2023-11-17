@@ -3,7 +3,6 @@
 This simple banking system is implemented in JavaScript and allows you to perform various operations such as depositing cash, withdrawing cash, adding new accounts, removing accounts, transferring money, and viewing individual account details.
 
 ## Table of Contents
-- [Getting Started](#getting-started)
 - [Functions](#functions)
   - [1. Deposit Cash](#1-deposit-cash)
   - [2. Withdraw Cash](#2-withdraw-cash)
@@ -11,18 +10,6 @@ This simple banking system is implemented in JavaScript and allows you to perfor
   - [4. Remove Account](#4-remove-account)
   - [5. Transfer Money](#5-transfer-money)
   - [6. View Account](#6-view-account)
-
-## Getting Started
-
-Open Salman_Banking System.js file in your preferred code editor.
-
-Ensure you have Node.js installed.
-
-Run the code using Node.js:
-
- ```bash  
- node Salman_Banking System.js
- ```
 
  ## Functions
  ### 1. Deposit Cash
