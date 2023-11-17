@@ -1,6 +1,6 @@
-# Simple Banking System
+# Banking System
 
-This simple banking system is implemented in JavaScript and allows you to perform various operations such as depositing cash, withdrawing cash, adding new accounts, removing accounts, transferring money, and viewing individual account details.
+This banking system is implemented in JavaScript and allows you to perform various operations such as depositing cash, withdrawing cash, adding new accounts, removing accounts, transferring money, and viewing individual account details.
 
 ## Table of Contents
 - [Functions](#functions)
