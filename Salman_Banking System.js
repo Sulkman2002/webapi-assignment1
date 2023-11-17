@@ -164,10 +164,11 @@ function viewAccount(name) {
 
 //Example Function 1:
 // Input name as "salman" and amount "300"
+// Depositing "300" in account of "salman" 
 // console.log(depositCash("salman",300));
 
 //Example Function 2:
-// Input name as "salman" and amount "400"
+// Withdrawing "400" in account of "salman"
 // console.log(withdrawCash('salman', 400));
 
 // Example Function 3:
