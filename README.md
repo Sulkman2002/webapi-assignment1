@@ -62,7 +62,7 @@ Function to transfer money from one account to another.
 - 'transferAmount': Initial amount in the account.
 
 
-### 6. Remove Account
+### 6. View Account
 ```bash
 viewAccount(name)
 ```  
