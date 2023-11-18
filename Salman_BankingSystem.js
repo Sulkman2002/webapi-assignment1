@@ -170,7 +170,15 @@ function viewAccount(name) {
     }
 }
 
-
+module.exports = {
+    bankDetails,
+    depositCash,
+    withdrawCash,
+    addAccount,
+    removeAccount,
+    transferMoney,
+    viewAccount
+};
 
 //////////////////////////////////////////////////////////////////////
 
